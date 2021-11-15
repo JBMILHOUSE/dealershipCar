@@ -1,0 +1,16 @@
+C:\Users\chris\OneDrive\Documentos\hdn_digital\newbies\logica\desafio#3\dealershipCar\bin\Debug\net5.0\dealershipCar.exe
+C:\Users\chris\OneDrive\Documentos\hdn_digital\newbies\logica\desafio#3\dealershipCar\bin\Debug\net5.0\dealershipCar.deps.json
+C:\Users\chris\OneDrive\Documentos\hdn_digital\newbies\logica\desafio#3\dealershipCar\bin\Debug\net5.0\dealershipCar.runtimeconfig.json
+C:\Users\chris\OneDrive\Documentos\hdn_digital\newbies\logica\desafio#3\dealershipCar\bin\Debug\net5.0\dealershipCar.runtimeconfig.dev.json
+C:\Users\chris\OneDrive\Documentos\hdn_digital\newbies\logica\desafio#3\dealershipCar\bin\Debug\net5.0\dealershipCar.dll
+C:\Users\chris\OneDrive\Documentos\hdn_digital\newbies\logica\desafio#3\dealershipCar\bin\Debug\net5.0\ref\dealershipCar.dll
+C:\Users\chris\OneDrive\Documentos\hdn_digital\newbies\logica\desafio#3\dealershipCar\bin\Debug\net5.0\dealershipCar.pdb
+C:\Users\chris\OneDrive\Documentos\hdn_digital\newbies\logica\desafio#3\dealershipCar\obj\Debug\net5.0\dealershipCar.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Documentos\hdn_digital\newbies\logica\desafio#3\dealershipCar\obj\Debug\net5.0\dealershipCar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Documentos\hdn_digital\newbies\logica\desafio#3\dealershipCar\obj\Debug\net5.0\dealershipCar.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Documentos\hdn_digital\newbies\logica\desafio#3\dealershipCar\obj\Debug\net5.0\dealershipCar.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Documentos\hdn_digital\newbies\logica\desafio#3\dealershipCar\obj\Debug\net5.0\dealershipCar.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documentos\hdn_digital\newbies\logica\desafio#3\dealershipCar\obj\Debug\net5.0\dealershipCar.dll
+C:\Users\chris\OneDrive\Documentos\hdn_digital\newbies\logica\desafio#3\dealershipCar\obj\Debug\net5.0\ref\dealershipCar.dll
+C:\Users\chris\OneDrive\Documentos\hdn_digital\newbies\logica\desafio#3\dealershipCar\obj\Debug\net5.0\dealershipCar.pdb
+C:\Users\chris\OneDrive\Documentos\hdn_digital\newbies\logica\desafio#3\dealershipCar\obj\Debug\net5.0\dealershipCar.genruntimeconfig.cache
