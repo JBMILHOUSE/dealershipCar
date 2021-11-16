@@ -11,19 +11,21 @@ namespace dealershipCar
         private string cor;
         private string marca;
         private double kmsRodados;
+        private int ano;
         private bool status = false;
         private Maintenance manutencao;
         private Client cliente;
         private int id;
 
-        public Car(string modelo, string cor, string marca, double kmsRodados, bool status, int id)
+        public Car(string modelo, string cor, string marca, double kmsRodados, bool status, int id, int ano)
         {
           this.modelo = modelo;
           this.cor = cor;
           this.marca = marca;
           this.kmsRodados = kmsRodados;
-          this.Status = status;
-          this.Id = id;
+          this.status = status;
+          this.id = id;
+          this.ano = ano;
         }
 
         public string getModelo() { 
@@ -88,9 +90,15 @@ namespace dealershipCar
           set { id = value; }
         }
 
+         public int Ano { 
+          
+          get { return ano; } 
+          set { ano = value; }
+        }
+
         public override string ToString() {
          
-          return modelo + " " +  marca  +  " " + cor + " " +  kmsRodados + " " + status + $"{(status == false ? " Em estoque " : "Vendido para: ")}" + string.Join(",", cliente) + string.Join(",", manutencao);
+          return "{ id: " + id + ", marca: " +  marca  + ", modelo: " +  modelo  +  ", cor: " + cor +  " ano: " + ano + ", km: " + kmsRodados + ", " + status + $" {(status == false ? " Em estoque " : " Vendido para: ")} " + string.Join(",", cliente) + string.Join(",", manutencao) + " }";
         }
     }
 }
