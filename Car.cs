@@ -98,7 +98,7 @@ namespace dealershipCar
 
         public override string ToString() {
          
-          return "{ id: " + id + ", marca: " +  marca  + ", modelo: " +  modelo  +  ", cor: " + cor +  " ano: " + ano + ", km: " + kmsRodados + ", " + status + $" {(status == false ? " Em estoque " : " Vendido para: ")} " + string.Join(",", cliente) + string.Join(",", manutencao) + " }";
+          return "{ id: " + id + ", marca: " +  marca  + ", modelo: " +  modelo  +  ", cor: " + cor +  ", ano: " + ano + ", km: " + kmsRodados + ", " + status + $" {(status == false ? " Em estoque " : " Vendido para: ")} " + string.Join(",", cliente) + string.Join(",", manutencao) + " }";
         }
     }
 }

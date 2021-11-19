@@ -7,7 +7,7 @@ namespace dealershipCar
     {
         static void Main(string[] args)
         {
-          Console.WriteLine("Welcome to dealership car");
+          Console.WriteLine("Bem vindes a concessionária Interlagos!");
           List<Car> cars = PreencherCars();
           int id = 0;
           bool sair = false;
@@ -67,7 +67,7 @@ namespace dealershipCar
 
           Console.WriteLine("Hi, Selecione aqui: ");
           Console.WriteLine("1 - Inserir novo carro");
-          Console.WriteLine("2 - Pesquisar por  modelo ou cor ou marca ");
+          Console.WriteLine("2 - Pesquisar por modelo ou cor ou marca ou ano");
           Console.WriteLine("3 - Pesquisa por km rodados ");
           Console.WriteLine("4 - Filtrar por status ");
           Console.WriteLine("5 - Adicionar uma manutenção");
@@ -279,6 +279,5 @@ namespace dealershipCar
              }
          }
         }
-
     }
 }
